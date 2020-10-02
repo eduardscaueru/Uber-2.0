@@ -1,0 +1,8 @@
+SCAUERU EDUARD 313CD
+Task 1 - Am calculat produsul tuturor numerelor iar apoi l-am impartit la fiecare pentru a obtine rezultatul si pentru a rezolva cerinta intr-un mod eficient.
+Task 2 - Am parcurs matricea data normal, iar matricea returnata pe coloane de jos in sus.Task 3 - Vectorul cu coordonate l-am parcurs din 4 in 4 iar de fiecare data calculam suma elementelor submatricei respective si o adugam in vectorul returnat.
+Task 4 - Pentru alocarea unui sofer am alocat mai intai soferul, apoi cursele iar apoi fiecare cursa. Pentru alocarea mai multor soferi m-am folosit de functia de alocare a unui sofer si am parcurs toti soferii.
+Task 5 - Am avut nevoie de a crea un vector in care sa retin numarul de curse pentru toti soferii pentru a aloca soferii. Am citit si am afisat in ordine datele cerute.
+Task 6 - Am calucat pentru fiecare sofer ratingul si am retinut cel mai mare dintre acestea. Pentru a-l calcula m-am folosit de 3 variabile x, stars si rides pentru a scurta din cod si din complexitate, am retinut pozitia soferului din vectorul de soferi si i-am returnat numele.
+Task 7 - Asemanator cu task 6, doar ca am creat un nou vector de soferi pentru a-i salva pe cei mai apropiati ordonati lexicografic, marrcand cu ajutorul vectorului f daca au fost luati in considerare pentru a nu-i mai lua inca o data.
+Task 8 - Am dat free in mod invers fata de alocare si la fel ca la alocare, m-am folosit de functia de free a unui singur sofer pentru a-i dezaloca pe toti.
